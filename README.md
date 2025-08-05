@@ -46,7 +46,7 @@ nexus-surveillance/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/nexus-surveillance.git
+git clone https://github.com/FuryLusifer/nexus-surveillance.git
 cd nexus-surveillance
 ```
 
@@ -63,13 +63,6 @@ npm run dev
 ```
 
 Open [http://localhost:8080](http://localhost:8080) to view it in your browser.
-
----
-
-## 🧼 Notes
-
-- All traces of external generators or proprietary plugins have been removed for full project ownership and maintainability.
-- The app is optimized for local development and can be extended easily with a backend or external API.
 
 ---
 
